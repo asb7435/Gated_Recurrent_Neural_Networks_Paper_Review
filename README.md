@@ -46,8 +46,4 @@
 ### 개인적인 견해
 이 연구는 GRU가 LSTM과 유사한 성능을 제공하면서도 더 간단한 구조를 가진다는 점을 보여줍니다. 그러나, LSTM과 GRU의 미묘한 차이점을 고려할 때, 특정 데이터셋과 작업의 특성에 따라 아키텍처를 선택하는 것이 중요합니다.
 
-## 코드 실행 방법
 
-1. 이 저장소를 클론합니다:
-   ```bash
-   git clone https://github.com/asb7435/Gated_Recurrent_Neural_Networks_Paper_Review.git
